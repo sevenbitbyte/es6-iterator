@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "d": "^1.0.1",
-    "es5-ext": "^0.10.50",
+    "es5-ext": "github:sevenbitbyte/es5-ext#hash-patch",
     "es6-symbol": "^3.1.1"
   },
   "devDependencies": {

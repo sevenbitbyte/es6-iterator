@@ -1,7 +1,7 @@
 "use strict";
 
 var setPrototypeOf = require("es5-ext/object/set-prototype-of")
-  , contains       = require("es5-ext/string/#/contains")
+  , contains       = require("es5-ext/string/_hash_/contains")
   , d              = require("d")
   , Symbol         = require("es6-symbol")
   , Iterator       = require("./");

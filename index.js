@@ -1,6 +1,6 @@
 "use strict";
 
-var clear    = require("es5-ext/array/#/clear")
+var clear    = require("es5-ext/array/_hash_/clear")
   , assign   = require("es5-ext/object/assign")
   , callable = require("es5-ext/object/valid-callable")
   , value    = require("es5-ext/object/valid-value")
